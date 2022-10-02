@@ -1,6 +1,9 @@
 # Workplace-Coordinator
 
-> _This is a clone of Slack chat app made using React._
+> _This is a web app built using React and Firebase. Create new
+channels, direct messaging to users, star channels, choose colortheme
+forthe app, upload and send images, update user avatar, see channel’s
+top posters, emoji-picker and more._
 
 ### To run the project locally on your machine:
 
