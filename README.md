@@ -1,4 +1,4 @@
-# Slack (clone)
+# Workplace-Coordinator
 
 > _This is a clone of Slack chat app made using React._
 
